@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://toxin-panache5.github.io/sz-f35/sitemap.xml
